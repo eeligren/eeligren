@@ -7,7 +7,6 @@ In 2024, I'll be competing in the WorldSkills World Championship in my field, we
 My Tech Stack in Web Development:
 - Frontend: React (Vite)
 - Backend: Laravel, Python
-- Other Tools I Use:
 - Docker: For containerizing applications and ensuring consistent development environments.
 - Git: For version control and collaborative development.
 - Automated CI/CD pipelines: To streamline and automate the testing and deployment processes.
